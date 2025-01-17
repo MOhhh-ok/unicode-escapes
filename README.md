@@ -1,4 +1,4 @@
-# Unicode character class escape
+# Unicode escapes
 
 This is a library for Unicode character class escape.
 
